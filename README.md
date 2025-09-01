@@ -37,6 +37,16 @@ Pipelines often fail silently, and citizens lack transparency about **water qual
 
 ---
 
+## 🌍 Live Demo
+The HydroGrid prototype is fully functional online. Explore:
+
+- Citizen portal: bill tracking, eco-rewards, issue reporting
+- Department dashboard: alerts, live WQI map, workforce dispatch
+
+👉 [Click here to see it live](https://hydrogrid.netlify.app)
+
+---
+
 ## ⚡ How to Run Locally
 1. Clone the repo:
    ```bash
